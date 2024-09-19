@@ -1,7 +1,7 @@
 [Home](../bootcamp-main.md)
 
 > “Divide each difficulty into as many parts as is feasible and necessary to resolve it.”  
-> — René Descartes
+> — Ibn Sina
 
 # Day 22: Clustering Algorithms - K-Means, Hierarchical Clustering
 
