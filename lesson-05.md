@@ -103,7 +103,7 @@ plt.ylabel('Frequency')
 plt.show()
 ```
 
-![histogram](../bootcamp-subpages/plots/lesson-05-histogram.png)
+![histogram](plots/lesson-05-histogram.png)
 
 **Fig 1.** Histogram of normally distributed data values.
 
@@ -133,7 +133,7 @@ plt.ylabel("Value")
 plt.show()
 ```
 
-![boxplot](../bootcamp-subpages/plots/lesson-05-boxplot.png)
+![boxplot](plots/lesson-05-boxplot.png)
 
 **Fig 2.** Box plot of normally distributed data values.
 
@@ -195,7 +195,7 @@ plt.title("Correlation Matrix")
 plt.show()
 ```
 
-![correlation-matrices](../bootcamp-subpages/plots/lesson-05-correlation-matrices.png)
+![correlation-matrices](plots/lesson-05-correlation-matrices.png)
 
 **Fig 3.** Correlation matrix of the variables X1, X2, and X3.
 

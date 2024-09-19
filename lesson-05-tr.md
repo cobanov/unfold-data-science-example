@@ -103,7 +103,7 @@ plt.ylabel('Sıklık')
 plt.show()
 ```
 
-![histogram](../bootcamp-subpages/plots/lesson-05-histogram.png)
+![histogram](plots/lesson-05-histogram.png)
 
 **Şekil 1.** Normal dağılıma sahip veri değerlerinin histogramı.
 
@@ -133,7 +133,7 @@ plt.ylabel("Değer")
 plt.show()
 ```
 
-![boxplot](../bootcamp-subpages/plots/lesson-05-boxplot.png)
+![boxplot](plots/lesson-05-boxplot.png)
 
 **Şekil 2.** Normal dağılıma sahip veri değerlerinin kutu grafiği.
 
@@ -195,7 +195,7 @@ plt.title("Korelasyon Matrisi")
 plt.show()
 ```
 
-![correlation-matrices](../bootcamp-subpages/plots/lesson-05-correlation-matrices.png)
+![correlation-matrices](plots/lesson-05-correlation-matrices.png)
 
 **Şekil 3.** X1, X2 ve X3 değişkenlerinin korelasyon matrisi.
 
