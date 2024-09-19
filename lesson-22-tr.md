@@ -224,5 +224,3 @@ plt.xlabel("Müşteri ID")
 plt.ylabel("Mesafe")
 plt.show()
 ```
-
-Bu alıştırma sayesinde K-Means ve Hiyerarşik Kümeleme algoritmalarını uygul
